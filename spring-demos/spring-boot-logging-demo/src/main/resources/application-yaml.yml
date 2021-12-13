@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: trace
+    name.xupeng.spring.boot.logging.yamlconfig.UseLogClass: warn
+#debug: true
+#trace: true
